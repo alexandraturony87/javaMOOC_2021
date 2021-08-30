@@ -1,2 +1,2 @@
 # UofHJavaMOOC
-All the solutions for the University of Helsinki Java Programming MOOC (***I am currently completing this course.  As of 8.30.21 I am finishing up part 6 and beginngin part 7 and will upload exercise solutions I complete each day.)
+All the solutions for the University of Helsinki Java Programming MOOC.  These are all my implementations of the solutions and are not copied from anywhere/anyone else. (***I am currently completing this course and will upload exercise solutions I complete each day.***)
